@@ -1,2 +1,2 @@
 # Solution
-Платформа на базе NW.js для создания приложений, используя технологии веб (HTML, CSS, JavaScript...).
+The platform written on the basis of NW.js to create games/applications using web technologies.
